@@ -1,0 +1,71 @@
+Example session (selected operations; output formatting may vary slightly by terminal)
+
+====================================
+      LINKED LIST MANAGEMENT SYSTEM
+====================================
+1. Singly linked list
+2. Doubly linked list
+3. Compare the two lists
+4. Exit
+Enter choice: 1
+
+--- Singly Linked List ---
+1. Insert at beginning
+2. Insert at end
+3. Insert at position
+4. Insert after a value
+5. Insert before a value
+6. Delete from beginning
+7. Delete from end
+8. Delete from position
+9. Delete by value
+10. Search
+11. Update
+12. Display
+13. Count nodes
+14. Find maximum
+15. Find minimum
+16. Find middle element
+17. Reverse
+18. Sort
+19. Remove duplicates
+20. Back to main menu
+Enter choice: 2
+Value: 40
+Inserted 40 at the end.
+
+[Repeat option 2 with values 10, 30, 20, and 50]
+
+Enter choice: 12
+40 -> 10 -> 30 -> 20 -> 50 -> NULL
+
+Enter choice: 18
+List sorted in ascending order.
+
+Enter choice: 12
+10 -> 20 -> 30 -> 40 -> 50 -> NULL
+
+Enter choice: 17
+List reversed.
+
+Enter choice: 12
+50 -> 40 -> 30 -> 20 -> 10 -> NULL
+
+Enter choice: 20
+
+====================================
+      LINKED LIST MANAGEMENT SYSTEM
+====================================
+1. Singly linked list
+2. Doubly linked list
+3. Compare the two lists
+4. Exit
+Enter choice: 2
+
+[Insert 10, 20, 30, and 40 using option 2, then choose option 12]
+10 <-> 20 <-> 30 <-> 40 <-> NULL
+
+[Choose option 13 to display backward]
+NULL <-> 40 <-> 30 <-> 20 <-> 10
+
+Note: Bracketed lines describe the user actions; they are not program output.
